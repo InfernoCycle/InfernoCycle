@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- 📫 Am taking request for things you may want built (still like intermediate level tho)
+- 💬 Currently Building a Messenger App
+- ⚡ Currently Building a Meijer's Information Discord Bot
+- ⚡ Currently upgrading my git site.
+
 <!--
 **InfernoCycle/InfernoCycle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

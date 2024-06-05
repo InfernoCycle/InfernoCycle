@@ -2,7 +2,7 @@
 
 I am a simple unemployed recent graduate who is just making as many apps as possible until the Job Market stops being stupid or until the IRS comes for my Loans.
 
-- 📫 I am taking any request for things you may want built (intermediate level only). I can make whatever in Java, Python, JavaScript, PHP.
+- 📫 I can take any request to build whatever you want as long as it's within my abilities. (will know if I accept or don't). Also don't expect a time frame as not even I know how long it may take to finish a project.
 
 - ⚡ Right now relearning C++ so more future apps will be built in that.
 - 💬 Currently Building a Messenger App

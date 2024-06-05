@@ -1,9 +1,13 @@
-## Hi there 👋
+## Yahallo Welcome to My Page 👋
 
-- 📫 Am taking request for things you may want built (still like intermediate level tho)
+I am a simple unemployed recent graduate who is just making as many apps as possible until the Job Market stops being stupid or until the IRS comes for my Loans.
+
+- 📫 I am taking any request for things you may want built (intermediate level only). I can make whatever in Java, Python, JavaScript, PHP.
+- ⚡Right now relearning C++ so more future apps will be built in that.
 - 💬 Currently Building a Messenger App
-- ⚡ Currently Building a Meijer's Information Discord Bot
-- ⚡ Currently upgrading my git site.
+- 🔭 Currently Building a Meijer's Information Discord Bot
+- 🔭 Working on upgrading my [git site](https://infernocycle.github.io/).
+- 🔭 Working on upgrading anime news app.
 
 <!--
 **InfernoCycle/InfernoCycle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

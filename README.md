@@ -1,6 +1,6 @@
 # Good Day and Welcome to My Page 👋
 
-## I am a simple unemployed recent graduate who is just making random apps until the Job Market stops being weird or until the IRS comes for my Loans.
+## I am a simple unemployed recent graduate who is just making random apps until the Job Market gets better and less ridiculous.
 
 - 📫 I can take any request to build whatever you want as long as it's within my abilities. (will know if I accept or don't). Also don't expect a time frame as not even I know how long it may take to finish a project.
 

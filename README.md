@@ -11,6 +11,8 @@ No longer creating new applications. Will focus on improving the ones I already 
 - 🔭 Working on upgrading my [Git Website](https://infernocycle.github.io/).
 - 🔭 Working on upgrading [Anime News App](https://github.com/InfernoCycle/AnimeNewsScraper).
 
+# LICENSE FOR ALL PROJECTS
+[License](https://github.com/InfernoCycle/InfernoCycle/blob/main/LICENSE)
 <!--
 **InfernoCycle/InfernoCycle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

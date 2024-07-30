@@ -2,7 +2,8 @@
 
 ## I am a simple unemployed recent graduate who is just making random apps until the Job Market gets better and I get a job.
 
-- 📫 I can take any request to build whatever you want as long as it's within my abilities. (will know if I accept or don't). Also don't expect a time frame as not even I know how long it may take to finish a project.
+<!-- - 📫 I can take any request to build whatever you want as long as it's within my abilities. (will know if I accept or don't). Also don't expect a time frame as not even I know how long it may take to finish a project. -->
+No longer creating new applications. Will focus on improving the ones I already have!
 
 - ⚡ Right now relearning C++ so more future apps will be built in that.
 - 💬 Currently Building a Messenger App

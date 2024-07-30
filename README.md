@@ -12,7 +12,7 @@ No longer creating new applications. Will focus on improving the ones I already 
 - 🔭 Working on upgrading [Anime News App](https://github.com/InfernoCycle/AnimeNewsScraper).
 
 # LICENSE FOR ALL PROJECTS
-[License](https://github.com/InfernoCycle/InfernoCycle/blob/main/LICENSE)
+[BSD 3-Clause License](https://github.com/InfernoCycle/InfernoCycle/blob/main/LICENSE)
 <!--
 **InfernoCycle/InfernoCycle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

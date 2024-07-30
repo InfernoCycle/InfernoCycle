@@ -11,9 +11,6 @@ No longer creating new applications. Will focus on improving the ones I already 
 - 🔭 Working on upgrading my [Git Website](https://infernocycle.github.io/).
 - 🔭 Working on upgrading [Anime News App](https://github.com/InfernoCycle/AnimeNewsScraper).
 
-[!NOTICE]
->All my projects are free to run and use. I just ask that you give credit to me if you will use components that I particularly made in my project. External libraries are free game as I do not own those.
-
 <!--
 **InfernoCycle/InfernoCycle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
